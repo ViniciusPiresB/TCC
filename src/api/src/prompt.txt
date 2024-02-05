@@ -1,0 +1,125 @@
+Você é um assistente virtual da Universidade Federal de Uberlândia , seu único e exclusivo objetivo é fornecer aos usuários que irão entrar em contato através do seu número de whatsapp, informações sobre o seguinte edital que será inserido nos próximos prompts. Você não deve fornecer nenhuma informação que não esteja nos prompts a seguir, sejam elas de quaisquer natureza. Você deve ler no seu histórico as informações necessárias e entregar ao usuário o que ele pede com base no que está inserido no seu histórico de prompts.
+
+
+PROGRAD - Pró-Reitoria de Graduação 
+CLAA - Comitê Local de Acompanhamento e Avaliação 
+PET - PROGRAMA DE EDUCAÇÃO TUTORIAL
+1
+TUTORIAL PARA INSERIR AS COTAS NOS EDITAIS DE PROCESSOS 
+SELETIVOS DE PETIANOS
+Informações gerais:
+(a) Colocar no texto do edital a seguinte informação: “O ATESTADO DE INGRESSO COMO COTISTA é obtido no Portal do Estudante mediante 
+solicitação, que será atendida num prazo de 5 dias úteis.” Ou seja, este documento não está disponível diretamente no Portal do Estudante.
+(b) O prazo entre a divulgação do edital de seleção e o início das inscrições deve ser de no mínimo 12 dias, para garantir que candidatos às 
+cotas que não possuam o ATESTADO DE INGRESSO COMO COTISTA possam solicitar junto à DIFDO o “Termo de Deferimento da 
+AUTODECLARAÇÃO”.
+(c) Para garantir que haja tempo hábil de providenciar o “Termo de Deferimento da AUTODECLARAÇÃO”, deve ser definida no cronograma 
+do edital uma data limite para o candidato solicitar este documento, prevendo-se em torno de pelo menos 7 dias (antes do final do período
+de inscrições).
+(d) Para o caso de haver cotas PPI, deve ser anexado ao edital o “Modelo de Autodeclaração”.
+Para considerar as cotas nos processos seletivos dos Grupos PET da UFU (a partir de 01/01/22), 
+sugerimos que seja inserido no edital o texto a seguir, com os devidos ajustes para cada caso.
+Obs: Os comentários a seguir que estão em vermelho são apenas instrutivos, não fazendo parte do texto do edital.
+1 Distribuição das vagas (nome e numeração deste item dependerá de cada edital)
+1.1 Além das vagas de ampla concorrência, este processo seletivo prevê a reserva de vagas (cotas) 
+destinada a candidatos que se enquadrem nas categorias PPI (Pretos, Pardos e Indígenas) e PCD 
+(Pessoas Com Deficiência), conforme definido pelo “PROGRAMA DE COTAS PARA INGRESSO DE 
+ALUNOS NOS GRUPOS DO PROGRAMA DE EDUCAÇÃO TUTORIAL (PET) DA UFU”, Processo SEI Nº 
+23117.060063/2020-65, aprovado em 10/12/2021.
+Considera-se as seguintes categorias de candidatos inscritos, tanto para vagas de bolsistas, quanto 
+para vagas de não bolsistas:
+- Categoria A: candidatos inscritos para concorrer a vagas destinadas a ampla concorrência;
+- Categoria B: candidatos inscritos para concorrer a vagas destinadas a portadores do ATESTADO DE 
+INGRESSO COMO COTISTA PPI;
+- Categoria C: candidatos inscritos para concorrer a vagas destinadas a portadores do ATESTADO DE 
+INGRESSO COMO COTISTA PCD.
+Comentário 1: Este texto acima deverá ser ajustado (Categorias), caso não haja vaga de cota PPI e/ou PCD.
+1.2 O candidato que se inscrever no processo seletivo para concorrer a vaga em uma das categorias 
+descritas no item 1.1 não concorrerá a vaga em outra categoria.
+1.3 Este processo seletivo terá suas vagas distribuídas da seguinte maneira:
+- Categoria A: XX vagas para bolsistas e XX vagas para não bolsistas;
+- Categoria B: XX vagas para bolsistas e XX vagas para não bolsistas;
+- Categoria C: XX vagas para bolsistas e XX vagas para não bolsistas.
+Comentário 2: Para definir estas vagas, deve-se utilizar as duas tabelas de DISTRIBUIÇÃO DE VAGAS que constam 
+no PROGRAMA DE COTAS (itens 5 e 6). Pode acontecer que, em um determinado edital, não haja vaga em uma 
+ou nas duas categorias de cotas, seja com bolsa ou sem bolsa. Mas ao longo do tempo, espera-se que o Grupo 
+PET se organize em seus editais de seleção, permitindo que sejam ofertadas vagas de cotas PPI e PCD.
+
+
+
+PROGRAD - Pró-Reitoria de Graduação 
+CLAA - Comitê Local de Acompanhamento e Avaliação 
+PET - PROGRAMA DE EDUCAÇÃO TUTORIAL
+2
+1.4 Não havendo candidatos inscritos no processo seletivo em alguma das Categorias A, B e C, as vagas 
+serão remanejadas para outra(s) Categoria(s), de acordo com os seguintes critérios:
+(a) Não havendo candidatos inscritos na Categoria B, então as vagas da Categoria B serão remanejadas 
+para a Categoria C, desde que esteja prevista vaga para esta Categoria;
+(b) Não havendo candidatos inscritos na Categoria C, então as vagas da Categoria C serão remanejadas 
+para a Categoria B;
+(c) Não havendo candidatos inscritos nas Categorias B e C, então as vagas das Categorias B e C serão 
+remanejadas para a Categoria A;
+(d) Não havendo candidatos inscritos na Categoria A, então estas vagas serão divididas igualmente 
+entre as Categorias B e C. Caso o número resultante da divisão seja não inteiro, o arredondamento 
+será feito em favor da Categoria B. No caso em que não houver vagas reservadas na Categoria C, então 
+todas as vagas da Categoria A irão para a Categoria B.
+Comentário 3: Este texto acima (item 1.4) deverá ser ajustado, caso não haja vaga de cota PPI e/ou PCD.
+Comentário 4: Ao final do processo seletivo, realizado conforme o edital, deverão ser geradas as seguintes listas 
+de candidatos classificados (quando não houver cota em alguma categoria, estas listas serão reduzidas):
+(a) Lista dos candidatos classificados que se inscreveram na Categoria A, ordenada de acordo com as notas de 
+classificação nesta Categoria;
+(b) Lista dos candidatos classificados que se inscreveram na Categoria B, ordenada de acordo com as notas de 
+classificação nesta Categoria;
+(c) Lista dos candidatos classificados que se inscreveram na Categoria C, ordenada de acordo com as notas de 
+classificação nesta Categoria;
+(d) Lista geral dos candidatos classificados no processo seletivo, sem distinção de Categoria, ordenada de acordo 
+com as notas de classificação no processo seletivo;
+(e) Em caso de previsão no edital, elaborar lista geral dos candidatos aprovados no processo seletivo que ficarão 
+na lista de espera, sem distinção de Categoria, ordenada de acordo com as notas de classificação no processo 
+seletivo.
+Comentário 4.1: A concessão das bolsas e a ocupação das vagas de não bolsistas previstas no edital serão feitas
+segundo a ordem de classificação dos candidatos das listas especificadas em (a), (b) e (c) acima.
+Comentário 4.2: A concessão futura de bolsas para petianos não bolsistas dentro do Grupo PET será feita 
+levando-se em conta primeiro os não bolsistas dos editais mais antigos, e entre os não bolsistas provenientes de 
+um mesmo edital, as bolsas serão concedidas conforme a ordem de classificação da lista geral dos candidatos 
+classificados, especificada no item (d) acima.
+Comentário 4.3: Para editais de processos seletivos do PET em que exista previsão de aproveitamento de 
+candidatos classificados em lista de espera, a possível convocação futura deles e a concessão de bolsas para os 
+mesmos, serão feitas mediante a ordem de classificação da lista geral dos candidatos aprovados que estão em 
+lista de espera, especificada no item (e) acima.
+1.5 Os candidatos das vagas destinadas a cotas do tipo PPI devem apresentar no ato da inscrição do 
+processo seletivo o ATESTADO DE INGRESSO COMO COTISTA, obtido quando do ingresso na UFU, 
+solicitado no Portal do Estudante da UFU.
+1.5.1 Casos em que os candidatos às vagas destinadas a cotas do tipo PPI não possuam o ATESTADO 
+DE INGRESSO COMO COTISTA deverão ser analisados pela Pró-Reitoria de Graduação (PROGRAD), em 
+parceria com a Diretoria de Estudos e Pesquisas Afrorraciais (DIEPAFRO) e com o Núcleo de Estudos 
+Afro-brasileiros (NEAB), representados por uma comissão exclusiva para a realização de 
+procedimentos de heteroidentificação presenciais e/ou telepresenciais. Nestes casos o candidato
+
+
+
+PROGRAD - Pró-Reitoria de Graduação 
+CLAA - Comitê Local de Acompanhamento e Avaliação 
+PET - PROGRAMA DE EDUCAÇÃO TUTORIAL
+3
+deverá solicitar pelo email difdo@prograd.ufu.br (DIFDO - Divisão de Formação Docente) o Termo de 
+Deferimento da AUTODECLARAÇÃO, informando o edital que irá participar e anexando ao email um 
+DOCUMENTO DE IDENTIFICAÇÃO COM FOTO, a AUTODECLARAÇÃO (conforme modelo anexo ao 
+edital) e uma FOTO INDIVIDUAL ATUAL (foto frontal; boa iluminação; fundo branco; roupas claras; sem 
+maquiagem; sem óculos; cabelos soltos; de preferência sem agasalho ou roupa de frio; sem filtros de 
+edição; boa resolução; arquivo com no máximo 6 MB). No caso de candidato indígena, deve-se 
+apresentar ainda o RANI (Registro Administrativo de Nascimento de Indígena). O candidato só poderá 
+se inscrever na seleção quando estiver de posse do Termo de Deferimento da AUTODECLARAÇÃO.
+Comentário 5: Estes textos acima (itens 1.5 e 1.5.1) não farão parte do edital, caso não haja vaga de cota PPI.
+1.6 Os candidatos das vagas destinadas a cotas do tipo PCD devem apresentar no ato da inscrição do 
+processo seletivo o ATESTADO DE INGRESSO COMO COTISTA, obtido quando do ingresso na UFU, 
+solicitado no Portal do Estudante da UFU.
+1.6.1 Os candidatos das vagas destinadas a cotas do tipo PCD que não possuem o ATESTADO DE 
+INGRESSO COMO COTISTA devem apresentar no ato da inscrição do processo seletivo a DECLARAÇÃO 
+DE ACOMPANHAMENTO DA DEPAE (Divisão de Ensino, Pesquisa, Extensão e Atendimento em 
+Educação Especial da UFU), que deve ser solicitada pelo candidato ao email depae@prograd.ufu.br
+Comentário 6: Estes textos acima (itens 1.6 e 1.6.1) não farão parte do edital, caso não haja vaga de cota PCD.
+Comentário geral: Caberá ao CLAA acompanhar o cumprimento da política de cotas no Programa PET 
+da UFU, tomando por base o PROGRAMA DE COTAS, utilizando-se para isto da análise e parecer dos 
+editais de seleção para ingresso de alunos nos Grupos e do acompanhamento/avaliação anual dos 
+Grupos PET da UFU.

@@ -1,0 +1,97 @@
+body {
+  background-color: #26292b;
+  font-family: "Montserrat", sans-serif;
+  color: #f4fefd;
+}
+
+.container {
+  background-color: #2e3239;
+  border-radius: 10px;
+  box-shadow: 0 0 20px #0000004d;
+  padding: 20px;
+  margin-top: 30px;
+}
+
+.btn {
+  color: #2e3239;
+  font-weight: 500;
+  letter-spacing: 1px;
+  background-color: #a2b2ee;
+  padding: 0.5rem;
+  border-radius: 10px;
+  border: none;
+  transition: all 0.2s;
+}
+
+.btn:hover {
+  color: #fff;
+  background-color: #5f7adb;
+  box-shadow: 0 0 5px #5f7adb;
+}
+
+#save {
+  background-color: #1acf44;
+}
+
+.form-check-input:checked {
+  background-color: #5f7adb;
+}
+
+.status {
+  display: inline-block;
+  font-weight: bold;
+}
+
+.online {
+  color: #c90101;
+  animation: blink-text-on 1.5s linear infinite;
+}
+
+.offline {
+  color: #dc3545;
+  animation: blink-text-off 1.5s linear infinite;
+}
+
+@keyframes blink-text-on {
+  0% {
+    text-shadow: 0 0 7px #1acf44;
+  }
+  50% {
+    text-shadow: 0 0 0px #1acf44;
+  }
+  100% {
+    text-shadow: 0 0 7px #1acf44;
+  }
+}
+
+@keyframes blink-text-off {
+  0% {
+    text-shadow: 0 0 7px #dc3545;
+  }
+  50% {
+    text-shadow: 0 0 0px #dc3545;
+  }
+  100% {
+    text-shadow: 0 0 7px #dc3545;
+  }
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-control-vertical {
+  height: 170px;
+  resize: none;
+}
+
+#response-time,
+#interaction-rate {
+  width: 10rem;
+}
+
+.separator {
+  width: 100%;
+  border: 1.5px solid #ffffff75;
+  border-radius: 100px;
+}
