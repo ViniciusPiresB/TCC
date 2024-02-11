@@ -5,8 +5,10 @@ import { getSettings } from "./helper/getSettings";
 import { checkIfHasNumber } from "./helper/checkNumber";
 import { NumberAvDTO } from "./dto/numberAv.dto";
 import { addAssessment } from "./helper/addAvaliation";
+import { QuantityMessage } from "./dto/qMessages.dto";
 
 const allEvaluations: NumberAvDTO = {};
+const allQuantityMessages: QuantityMessage = {};
 
 (async () => {
   const venomClient = await create({
@@ -20,7 +22,7 @@ const allEvaluations: NumberAvDTO = {};
 
   const chatGpt = new ChatGPT();
 
-  venomClient.onMessage(async message => {
+  venomClient.onMessage(async (message) => {
     const start = performance.now();
 
     if (!message.body || message.from == "status@broadcast") return;
@@ -42,9 +44,20 @@ const allEvaluations: NumberAvDTO = {};
 
       const valAssessment = parseInt(messagePattern[0]);
 
+      console.log(allEvaluations);
+
       addAssessment(valAssessment, numberAvs);
 
-      console.log(allEvaluations);
+      const lastIndexOfAv = numberAvs.length - 1;
+      const lastAv = numberAvs[lastIndexOfAv];
+
+      if (lastAv["av2"] == -1) {
+        venomClient.sendText(
+          message.from,
+          "Em uma escala de 0 a 5, avalie o quanto a resposta foi esclarecedora."
+        );
+      }
+
       return;
     }
 
@@ -52,7 +65,12 @@ const allEvaluations: NumberAvDTO = {};
 
     if (!responseGpt) return;
 
-    venomClient.sendText(message.from, responseGpt);
+    await venomClient.sendText(message.from, responseGpt);
+
+    venomClient.sendText(
+      message.from,
+      "Em uma escala de 0 a 5, avalie o nivel de satisfação da resposta obtida."
+    );
 
     const stop = performance.now();
     const inSeconds = Number(Number((stop - start) / 1000).toFixed(2));
