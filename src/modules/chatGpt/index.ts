@@ -24,7 +24,7 @@ export default class ChatGPT {
     const completion = await this.openAI.createChatCompletion({
       model: "gpt-3.5-turbo-0125",
       temperature: 0,
-      max_tokens: 256,
+      max_tokens: 512,
       messages
     });
 
