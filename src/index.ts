@@ -6,6 +6,7 @@ import { checkIfHasNumber } from "./helper/checkNumber";
 import { NumberAvDTO } from "./dto/numberAv.dto";
 import { addAssessment } from "./helper/addAvaliation";
 import { QuantityMessage } from "./dto/qMessages.dto";
+import { GeneralAssessment } from "./modules/GeneralAssessment";
 
 const allEvaluations: NumberAvDTO = {};
 const allQuantityMessages: QuantityMessage = {};
@@ -22,6 +23,8 @@ const allQuantityMessages: QuantityMessage = {};
 
   const chatGpt = new ChatGPT();
 
+  const generalAssessment = new GeneralAssessment(venomClient, chatGpt);
+
   venomClient.onMessage(async (message) => {
     const start = performance.now();
 
@@ -31,6 +34,15 @@ const allQuantityMessages: QuantityMessage = {};
 
     if (!canAnswerGroup) {
       if (message.isGroupMsg) return;
+    }
+
+    const numberQuantityMessage = allQuantityMessages[message.from];
+    console.log(`Quantity: ${numberQuantityMessage}`);
+    if (!numberQuantityMessage) allQuantityMessages[message.from] = 0;
+
+    if (numberQuantityMessage == 5) {
+      generalAssessment.handle(message, allEvaluations);
+      return;
     }
 
     if (message.body.length <= 10 && checkIfHasNumber(message.body)) {
@@ -56,8 +68,11 @@ const allQuantityMessages: QuantityMessage = {};
           message.from,
           "Em uma escala de 0 a 5, avalie o quanto a resposta foi esclarecedora."
         );
+
+        return;
       }
 
+      allQuantityMessages[message.from]++;
       return;
     }
 
