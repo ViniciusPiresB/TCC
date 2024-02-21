@@ -13,5 +13,11 @@ export const getPrompt = async () => {
 
   const prompt: string[] = response;
 
-  return prompt;
+  let fullText = "";
+
+  prompt.forEach(text => {
+    fullText += text + "\n";
+  });
+
+  return fullText;
 };
