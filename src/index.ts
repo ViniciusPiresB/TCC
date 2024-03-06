@@ -1,5 +1,6 @@
 import { create } from "venom-bot";
 import ChatGPT from "./modules/chatGpt";
+import fs from "fs";
 import { updateSettings } from "./helper/updateSettings";
 import { getSettings } from "./helper/getSettings";
 import { checkIfHasNumber } from "./helper/checkNumber";
@@ -8,7 +9,7 @@ import { addAssessment } from "./helper/addAvaliation";
 import { QuantityMessage } from "./dto/qMessages.dto";
 import { GeneralAssessment } from "./modules/GeneralAssessment";
 
-const allEvaluations: NumberAvDTO = {};
+let allEvaluations: NumberAvDTO = {};
 const allQuantityMessages: QuantityMessage = {};
 
 (async () => {
@@ -16,6 +17,12 @@ const allQuantityMessages: QuantityMessage = {};
     session: "test",
     disableWelcome: true
   });
+
+  const dbData = fs.readFileSync("./src/db/db.json").toString();
+
+  if (dbData) {
+    allEvaluations = JSON.parse(dbData);
+  }
 
   const settings = await getSettings();
 
@@ -25,7 +32,7 @@ const allQuantityMessages: QuantityMessage = {};
 
   const generalAssessment = new GeneralAssessment(venomClient, chatGpt);
 
-  venomClient.onMessage(async (message) => {
+  venomClient.onMessage(async message => {
     const start = performance.now();
 
     if (!message.body || message.from == "status@broadcast") return;
@@ -36,17 +43,27 @@ const allQuantityMessages: QuantityMessage = {};
       if (message.isGroupMsg) return;
     }
 
-    const numberQuantityMessage = allQuantityMessages[message.from];
+    let numberQuantityMessage = 1;
+
+    if (allEvaluations[message.from])
+      numberQuantityMessage = allEvaluations[message.from].length;
     console.log(`Quantity: ${numberQuantityMessage}`);
-    if (!numberQuantityMessage) allQuantityMessages[message.from] = 0;
 
     if (numberQuantityMessage == 5) {
-      generalAssessment.handle(message, allEvaluations);
+      const res = await generalAssessment.handle(message, allEvaluations);
+
+      if (res == true) {
+        allQuantityMessages[message.from]++;
+        venomClient.sendText(message.from, "Obrigado pelas avaliações.");
+      }
+
       return;
     }
 
     if (message.body.length <= 10 && checkIfHasNumber(message.body)) {
-      if (!allEvaluations[message.from]) allEvaluations[message.from] = [];
+      if (!allEvaluations[message.from]) {
+        allEvaluations[message.from] = [];
+      }
 
       const numberAvs = allEvaluations[message.from];
 
@@ -60,6 +77,8 @@ const allQuantityMessages: QuantityMessage = {};
 
       addAssessment(valAssessment, numberAvs);
 
+      fs.writeFileSync("./src/db/db.json", JSON.stringify(allEvaluations));
+
       const lastIndexOfAv = numberAvs.length - 1;
       const lastAv = numberAvs[lastIndexOfAv];
 
@@ -70,6 +89,10 @@ const allQuantityMessages: QuantityMessage = {};
         );
 
         return;
+      }
+
+      if (numberQuantityMessage < 5) {
+        venomClient.sendText(message.from, `Obrigado pelas avaliações, realize mais ${5 - numberQuantityMessage} perguntas e responda as avaliações.`);
       }
 
       allQuantityMessages[message.from]++;

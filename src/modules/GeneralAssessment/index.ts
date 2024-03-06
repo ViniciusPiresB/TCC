@@ -19,8 +19,7 @@ export class GeneralAssessment {
     this.to = message.from;
 
     if (message.body.length <= 10 && checkIfHasNumber(message.body)) {
-      this.handleNumberMessage(message, allEvaluations);
-      return;
+      return this.handleNumberMessage(message, allEvaluations);
     }
 
     const responseGpt = await this.chatGpt.completion(
@@ -48,49 +47,63 @@ export class GeneralAssessment {
     const valAssessment = parseInt(messagePattern[0]);
 
     const numberAvs = allEvaluations[message.from];
+    console.log(allEvaluations);
 
-    if (numberAvs.length == 5 && numberAvs[4].av1 != -1) {
-      // primeira av esta preenchido
-      const lastAv = numberAvs[4];
-
-      if (lastAv.av2 == -1) {
-        // segunda av nn esta preenchido
+    try {
+      if (numberAvs[4].av1 != -1 && numberAvs[4].av2 == -1) {
         addAssessment(valAssessment, numberAvs);
-
-        await this.sendSecondGeneralMessage();
-
+        console.log(numberAvs[5]);
+        await this.sendFirstGeneralMessage();
         return;
       }
+    } catch (error) {
+      if (error instanceof TypeError) console.log("avs not found, normal");
+      else throw error;
+    }
 
+    if (numberAvs.length == 5 && numberAvs[4].av2 != -1) {
+      addAssessment(valAssessment, numberAvs);
+
+      await this.sendSecondGeneralMessage();
+
+      return;
       // segunda av esta preenchido
       // TODO: Criar estrutura de armazenamento avaliacao geral e continuar o fluxo a partir do (A segunda avaliação está preenchida?)
     }
 
     addAssessment(valAssessment, numberAvs);
 
+    if (numberAvs.length == 6 && numberAvs[5].av2 != -1) {
+      return true;
+    }
+
     await this.sendSecondMessage();
   }
 
   private async sendFirstMessage() {
-    const firstMessage = "Poggers poggers poggers 1";
+    const firstMessage =
+      "Em uma escala de 0 a 5, avalie o nivel de satisfação da resposta obtida.";
 
     this.sendMessage(firstMessage);
   }
 
   private async sendSecondMessage() {
-    const secondMessage = "Poggers poggers poggers 2";
+    const secondMessage =
+      "Em uma escala de 0 a 5, avalie o quanto a resposta foi esclarecedora.";
 
     this.sendMessage(secondMessage);
   }
 
   private async sendFirstGeneralMessage() {
-    const firstGeneralMessage = "Poggers poggers poggers general 1";
+    const firstGeneralMessage =
+      "De 0 a 5, classifique se você considera que essa ferramenta economiza tempo?";
 
     this.sendMessage(firstGeneralMessage);
   }
 
   private async sendSecondGeneralMessage() {
-    const secondGeneralMessage = "Poggers poggers poggers general 2";
+    const secondGeneralMessage =
+      "De 0 a 5, quais as chances de você utilizar essa ferramenta no futuro?";
 
     this.sendMessage(secondGeneralMessage);
   }

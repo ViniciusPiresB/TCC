@@ -1,6 +1,7 @@
 import { ChatCompletionRequestMessage, OpenAIApi } from "openai";
 import { getOpenAiApi } from "./config/getOpenAiApi";
 import { getPrompt } from "./prompts/prompt";
+import fs from "fs";
 
 export default class ChatGPT {
   openAI: OpenAIApi;

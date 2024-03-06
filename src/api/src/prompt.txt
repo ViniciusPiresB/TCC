@@ -1,125 +1,625 @@
-Você é um assistente virtual da Universidade Federal de Uberlândia , seu único e exclusivo objetivo é fornecer aos usuários que irão entrar em contato através do seu número de whatsapp, informações sobre o seguinte edital que será inserido nos próximos prompts. Você não deve fornecer nenhuma informação que não esteja nos prompts a seguir, sejam elas de quaisquer natureza. Você deve ler no seu histórico as informações necessárias e entregar ao usuário o que ele pede com base no que está inserido no seu histórico de prompts.
+Você é um assistente virtual da Universidade Federal do Pampa , seu único e exclusivo objetivo é fornecer aos usuários que irão entrar em contato através do seu número de whatsapp, informações sobre o seguinte EDITAL DE PROCESSO SELETIVO PARA INGRESSO DE DISCENTES PROGRAMA DE PÓS-GRADUAÇÃO EM ENGENHARIA DE SOFTWARE que será inserido nos próximos prompts. Você não deve fornecer nenhuma informação que não esteja nos prompts a seguir, sejam elas de quaisquer natureza. Você deve ler no seu histórico as informações necessárias e entregar ao usuário o que ele pede com base no que está inserido no seu histórico de prompts. Sempre que receber o primeiro contato, diga que você é a assistente do condomínio e que está de prontidão para auxiliar com qualquer informação do regimento interno do condomínio. Você não deve instruir o usuário a checar o regimento interno do condomínio, já que você existe para eliminar essa necessidade.
 
 
-PROGRAD - Pró-Reitoria de Graduação 
-CLAA - Comitê Local de Acompanhamento e Avaliação 
-PET - PROGRAMA DE EDUCAÇÃO TUTORIAL
-1
-TUTORIAL PARA INSERIR AS COTAS NOS EDITAIS DE PROCESSOS 
-SELETIVOS DE PETIANOS
-Informações gerais:
-(a) Colocar no texto do edital a seguinte informação: “O ATESTADO DE INGRESSO COMO COTISTA é obtido no Portal do Estudante mediante 
-solicitação, que será atendida num prazo de 5 dias úteis.” Ou seja, este documento não está disponível diretamente no Portal do Estudante.
-(b) O prazo entre a divulgação do edital de seleção e o início das inscrições deve ser de no mínimo 12 dias, para garantir que candidatos às 
-cotas que não possuam o ATESTADO DE INGRESSO COMO COTISTA possam solicitar junto à DIFDO o “Termo de Deferimento da 
-AUTODECLARAÇÃO”.
-(c) Para garantir que haja tempo hábil de providenciar o “Termo de Deferimento da AUTODECLARAÇÃO”, deve ser definida no cronograma 
-do edital uma data limite para o candidato solicitar este documento, prevendo-se em torno de pelo menos 7 dias (antes do final do período
-de inscrições).
-(d) Para o caso de haver cotas PPI, deve ser anexado ao edital o “Modelo de Autodeclaração”.
-Para considerar as cotas nos processos seletivos dos Grupos PET da UFU (a partir de 01/01/22), 
-sugerimos que seja inserido no edital o texto a seguir, com os devidos ajustes para cada caso.
-Obs: Os comentários a seguir que estão em vermelho são apenas instrutivos, não fazendo parte do texto do edital.
-1 Distribuição das vagas (nome e numeração deste item dependerá de cada edital)
-1.1 Além das vagas de ampla concorrência, este processo seletivo prevê a reserva de vagas (cotas) 
-destinada a candidatos que se enquadrem nas categorias PPI (Pretos, Pardos e Indígenas) e PCD 
-(Pessoas Com Deficiência), conforme definido pelo “PROGRAMA DE COTAS PARA INGRESSO DE 
-ALUNOS NOS GRUPOS DO PROGRAMA DE EDUCAÇÃO TUTORIAL (PET) DA UFU”, Processo SEI Nº 
-23117.060063/2020-65, aprovado em 10/12/2021.
-Considera-se as seguintes categorias de candidatos inscritos, tanto para vagas de bolsistas, quanto 
-para vagas de não bolsistas:
-- Categoria A: candidatos inscritos para concorrer a vagas destinadas a ampla concorrência;
-- Categoria B: candidatos inscritos para concorrer a vagas destinadas a portadores do ATESTADO DE 
-INGRESSO COMO COTISTA PPI;
-- Categoria C: candidatos inscritos para concorrer a vagas destinadas a portadores do ATESTADO DE 
-INGRESSO COMO COTISTA PCD.
-Comentário 1: Este texto acima deverá ser ajustado (Categorias), caso não haja vaga de cota PPI e/ou PCD.
-1.2 O candidato que se inscrever no processo seletivo para concorrer a vaga em uma das categorias 
-descritas no item 1.1 não concorrerá a vaga em outra categoria.
-1.3 Este processo seletivo terá suas vagas distribuídas da seguinte maneira:
-- Categoria A: XX vagas para bolsistas e XX vagas para não bolsistas;
-- Categoria B: XX vagas para bolsistas e XX vagas para não bolsistas;
-- Categoria C: XX vagas para bolsistas e XX vagas para não bolsistas.
-Comentário 2: Para definir estas vagas, deve-se utilizar as duas tabelas de DISTRIBUIÇÃO DE VAGAS que constam 
-no PROGRAMA DE COTAS (itens 5 e 6). Pode acontecer que, em um determinado edital, não haja vaga em uma 
-ou nas duas categorias de cotas, seja com bolsa ou sem bolsa. Mas ao longo do tempo, espera-se que o Grupo 
-PET se organize em seus editais de seleção, permitindo que sejam ofertadas vagas de cotas PPI e PCD.
-
-
-
-PROGRAD - Pró-Reitoria de Graduação 
-CLAA - Comitê Local de Acompanhamento e Avaliação 
-PET - PROGRAMA DE EDUCAÇÃO TUTORIAL
-2
-1.4 Não havendo candidatos inscritos no processo seletivo em alguma das Categorias A, B e C, as vagas 
-serão remanejadas para outra(s) Categoria(s), de acordo com os seguintes critérios:
-(a) Não havendo candidatos inscritos na Categoria B, então as vagas da Categoria B serão remanejadas 
-para a Categoria C, desde que esteja prevista vaga para esta Categoria;
-(b) Não havendo candidatos inscritos na Categoria C, então as vagas da Categoria C serão remanejadas 
-para a Categoria B;
-(c) Não havendo candidatos inscritos nas Categorias B e C, então as vagas das Categorias B e C serão 
-remanejadas para a Categoria A;
-(d) Não havendo candidatos inscritos na Categoria A, então estas vagas serão divididas igualmente 
-entre as Categorias B e C. Caso o número resultante da divisão seja não inteiro, o arredondamento 
-será feito em favor da Categoria B. No caso em que não houver vagas reservadas na Categoria C, então 
-todas as vagas da Categoria A irão para a Categoria B.
-Comentário 3: Este texto acima (item 1.4) deverá ser ajustado, caso não haja vaga de cota PPI e/ou PCD.
-Comentário 4: Ao final do processo seletivo, realizado conforme o edital, deverão ser geradas as seguintes listas 
-de candidatos classificados (quando não houver cota em alguma categoria, estas listas serão reduzidas):
-(a) Lista dos candidatos classificados que se inscreveram na Categoria A, ordenada de acordo com as notas de 
-classificação nesta Categoria;
-(b) Lista dos candidatos classificados que se inscreveram na Categoria B, ordenada de acordo com as notas de 
-classificação nesta Categoria;
-(c) Lista dos candidatos classificados que se inscreveram na Categoria C, ordenada de acordo com as notas de 
-classificação nesta Categoria;
-(d) Lista geral dos candidatos classificados no processo seletivo, sem distinção de Categoria, ordenada de acordo 
-com as notas de classificação no processo seletivo;
-(e) Em caso de previsão no edital, elaborar lista geral dos candidatos aprovados no processo seletivo que ficarão 
-na lista de espera, sem distinção de Categoria, ordenada de acordo com as notas de classificação no processo 
+SERVIÇO PÚBLICO FEDERAL MINISTÉRIO DA EDUCAÇÃO
+Universidade Federal do Pampa
+EDITAL Nº 461/2023
+EDITAL DE PROCESSO SELETIVO PARA INGRESSO DE DISCENTES
+PROGRAMA DE PÓS-GRADUAÇÃO EM ENGENHARIA DE SOFTWARE
+MESTRADO PROFISSIONAL - 1º SEMESTRE/2024
+O REITOR DA UNIVERSIDADE FEDERAL DO PAMPA, no uso de suas atribuições legais e estatutárias, de acordo com a Resolução nº 295, de 30 de novembro de 2020, alterada pela Resolução nº 315 de 29 de abril de 2021, e, considerando a Resolução nº 136, de 22 de março de 2016, ambas do Conselho Universitário (CONSUNI) da Universidade Federal do Pampa (UNIPAMPA); o processo de criação do curso, protocolado sob nº 23100.003755/2016-17 e os termos determinados no
+processo protocolado sob nº 23100.010233/2022-10, torna público o processo de seleção dos candidatos ao corpo discente do Programa de Pós-graduação em Engenharia de Software (PPGES), em nível de Mestrado Profissional, Campus Alegrete (<https://cursos.unipampa.edu.br/cursos/ppges/>).
+1. DAS INSCRIÇÕES NO PROCESSO SELETIVO
+1.1. As inscrições no processo seletivo para ingresso de discentes no Programa de Pós-graduação em Engenharia de Software, para o curso stricto sensu de Mestrado Profissional, estarão abertas no período indicado no item 10 (cronograma)
+deste Edital.
+1.2. As inscrições serão realizadas através do preenchimento do formulário de inscrição on-line com envio da documentação solicitada anexada, conforme consta no item 4 deste edital.
+1.3. Serão considerados recebidos somente os documentos para inscrição enviados pelo Sistema de Gestão Unificada de Recursos Institucionais (GURI) até às 23h59min do último dia indicado para realização das inscrições, conforme item 10
+deste edital.
+1.4. O Programa de Pós-graduação em Engenharia de Software e a Universidade Federal do Pampa não poderão ser responsabilizados por problemas ocorridos tanto na anexação como no envio da documentação relativa à inscrição no processo
 seletivo.
-Comentário 4.1: A concessão das bolsas e a ocupação das vagas de não bolsistas previstas no edital serão feitas
-segundo a ordem de classificação dos candidatos das listas especificadas em (a), (b) e (c) acima.
-Comentário 4.2: A concessão futura de bolsas para petianos não bolsistas dentro do Grupo PET será feita 
-levando-se em conta primeiro os não bolsistas dos editais mais antigos, e entre os não bolsistas provenientes de 
-um mesmo edital, as bolsas serão concedidas conforme a ordem de classificação da lista geral dos candidatos 
-classificados, especificada no item (d) acima.
-Comentário 4.3: Para editais de processos seletivos do PET em que exista previsão de aproveitamento de 
-candidatos classificados em lista de espera, a possível convocação futura deles e a concessão de bolsas para os 
-mesmos, serão feitas mediante a ordem de classificação da lista geral dos candidatos aprovados que estão em 
-lista de espera, especificada no item (e) acima.
-1.5 Os candidatos das vagas destinadas a cotas do tipo PPI devem apresentar no ato da inscrição do 
-processo seletivo o ATESTADO DE INGRESSO COMO COTISTA, obtido quando do ingresso na UFU, 
-solicitado no Portal do Estudante da UFU.
-1.5.1 Casos em que os candidatos às vagas destinadas a cotas do tipo PPI não possuam o ATESTADO 
-DE INGRESSO COMO COTISTA deverão ser analisados pela Pró-Reitoria de Graduação (PROGRAD), em 
-parceria com a Diretoria de Estudos e Pesquisas Afrorraciais (DIEPAFRO) e com o Núcleo de Estudos 
-Afro-brasileiros (NEAB), representados por uma comissão exclusiva para a realização de 
-procedimentos de heteroidentificação presenciais e/ou telepresenciais. Nestes casos o candidato
+2. DA DIVULGAÇÃO DE INFORMAÇÕES SOBRE O PROCESSO SELETIVO
+2.1. Informações relevantes sobre todas as etapas deste processo seletivo, como resultados preliminares e definitivos, adendos, formulários, orientações, retificações, entre outros documentos, serão publicadas, unicamente, através de página
+específica do processo no Portal Web Processos Seletivos do GURI no endereço eletrônico <https://guri.unipampa.edu.br/psa/processos/>.
+2.2. Na página eletrônica do programa (<https://cursos.unipampa.edu.br/cursos/ppges/>) será apenas disponibilizado o link de acesso para o Portal Web Processos Seletivos do GURI.
+2.3. Cabe ao candidato acompanhar o processo seletivo e suas retificações na página eletrônica do GURI, no endereço eletrônico: <https://guri.unipampa.edu.br/psa/processos/>.
+3. DOS INSCRITOS/PÚBLICO-ALVO
+3.1. Poderá inscrever-se no processo seletivo de ingresso do Programa de Pós-graduação em Engenharia de Software - Mestrado Profissional o candidato que atender aos seguintes requisitos:
+a) ser portador de título de graduação (para candidatos ao mestrado) na área do programa de pós-graduação ou em áreas afins;
+b) ser graduando na área do programa de pós-graduação ou áreas afins (para mestrado) ou mestrandos na área do programa de pós-graduação com previsão de conclusão do curso antes da realização da matrícula no programa de pós￾graduação.
+3.2. A inscrição implica irrestrita aceitação, por parte do candidato, dos termos definidos neste edital, dos quais não poderá alegar desconhecimento.
+4. DOCUMENTAÇÃO NECESSÁRIA PARA A INSCRIÇÃO
+4.1. Os seguintes documentos são indispensáveis para inscrição:
+a) formulário de inscrição on-line, com preenchimento obrigatório no endereço eletrônico <https://guri.unipampa.edu.br/psa/processos/>, anexando os documentos necessários para inscrição solicitados neste edital, da seguinte forma:
+anexar os documentos descritos nas letras “a” até “h”, no que se aplica em cada campo específico, que constam no item 3 deste edital;
+todos os arquivos devem estar em formato portable document format (pdf), na língua portuguesa, “formato de documento portátil”;
+o nome de cada arquivo deve ser curto e separado por underline (“_”), na língua portuguesa, “sublinhado”;
+reduzir a “qualidade do arquivo”, em números de dots per inch (dpi), na língua portuguesa, “pontos por polegadas”.
+b) endereço eletrônico do currículo Lattes do candidato (acessar o currículo Lattes em <http://lattes.cnpq.br/> e copiar o endereço que aparece na visualização do currículo);
+c) cópia digitalizada (frente e verso) do diploma de graduação para os candidatos ao mestrado e doutorado, emitido por Instituição de Ensino Superior (IES) credenciada pelo Ministério da Educação (MEC), e de mestrado emitido por IES com
+Programa de Pós-graduação (PPG) reconhecido pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), para os candidatos ao doutorado dos PPGs cujo regimento determina tal exigência;
+d) o candidato graduando deverá apresentar atestado de provável formando, indicando o período previsto para a conclusão do curso, fornecido pela IES ou pelo PPG a que esteja vinculado. Neste caso, fica obrigatória a apresentação de diploma
+ou certificado de conclusão de curso (ou documento equivalente) para a solicitação da matrícula em caso de aprovação;
+e) cópia digitalizada do histórico escolar completo da graduação (para os candidatos ao mestrado);
+f) cópia digitalizada (frente e verso) do documento de identificação com foto, se brasileiro, ou do passaporte válido ou carteira de registro nacional migratório, se estrangeiro;
+g) cópia digitalizada da autodeclaração de raça/etnia dos candidatos às vagas reservadas para negros, (pretos e pardos) e indígenas, conforme Anexo 1, que deverá ser analisada por comissão de heteroidentificação, a qual emitirá parecer;
+h) cópia digitalizada do laudo médico, conforme Anexo 2, para os candidatos inscritos na reserva de vagas para pessoas com deficiência.
+4.1.1. O candidato estrangeiro deverá providenciar sua inscrição no Cadastro de Pessoa Física (CPF) para apresentação no momento da matrícula em caso de aprovação, conforme orientações disponíveis no endereço eletrônico do portal do
+governo federal brasileiro Gov.br (<https://www.gov.br/pt-br/servicos/inscrever-no-cpf-no-exterior>).
+4.2. A responsabilidade pelo envio da documentação completa requerida para inscrição é exclusiva do candidato, e a falta de qualquer um dos documentos mencionados acima implica a não homologação da inscrição.
+4.3. A autenticidade da documentação enviada é de responsabilidade do candidato, que pode ser responsabilizado e desligado do processo seletivo e do curso, caso matriculado, a qualquer momento se comprovada a falsidade ideológica.
+4.3.1. O candidato que prestar falsa declaração poderá responder criminalmente, nos termos do art. 299 do Decreto-lei nº 2.848, de 7 de dezembro de 1940 - Código Penal.
+4.4. Em caso de diplomação em instituição estrangeira, o diploma e o histórico escolar devem ter visto do consulado brasileiro no país de origem e serem traduzidos por tradutor juramentado, exceto os diplomas obtidos em países do Mercado Comum do Sul (MERCOSUL) ou versados em língua espanhola ou inglesa.
+5. DA HOMOLOGAÇÃO DAS INSCRIÇÕES
+5.1. As inscrições serão homologadas pela Comissão de Seleção do Programa de Pós-graduação em Engenharia de Software.
+5.2. Serão homologadas as inscrições dos candidatos que apresentarem toda a documentação exigida dentro do prazo estabelecido neste edital.
+5.3. As inscrições homologadas serão divulgadas, conforme data indicada no item 10 deste edital, apenas no GURI, disponível no endereço eletrônico <https://guri.unipampa.edu.br/psa/processos/>.
+5.4. Os candidatos cuja inscrição não for homologada por erro no formulário de inscrição ou falha ou ausência nos documentos indicados no item 4.1 poderão solicitar a complementação dentro do prazo estipulado para recurso, conforme data
+indicada no item 10.
+6. DAS VAGAS POR PROGRAMA
+6.1. Serão disponibilizadas 20 (vinte) vagas para discente do Curso de Mestrado Profissional em Engenharia de Software, distribuídas a seguir, de acordo com a Resolução nº 295, de 30 de novembro de 2020, alterada pela Resolução nº 315, de 29
+de abril de 2021, e, considerando a Resolução nº 136, de 22 de março de 2016, ambas do CONSUNI/UNIPAMPA:
+a) 16 (dezesseis) vagas para ampla concorrência (universais);
+b) 02 (duas) vagas reservadas a candidatos técnico-administrativos em educação da UNIPAMPA;
+c) 02 (duas) vagas reservadas a candidatos negros (pretos e pardos), indígenas e pessoas com deficiência.
+6.2. Para fazer jus às vagas reservadas a candidatos técnico-administrativos da UNIPAMPA, os servidores técnico-administrativos ativos deverão indicar no formulário de inscrição que estão concorrendo à reserva de vagas e obedecer aos critérios
+de inscrição, aprovação e classificação no processo seletivo, de acordo com as normas vigentes neste edital.
+6.2.1. Os candidatos técnico-administrativos concorrerão concomitantemente às vagas reservadas e às vagas destinadas à ampla concorrência (universais), de acordo com a sua classificação na seleção, nos termos da Resolução nº 136/2016 do CONSUNI/UNIPAMPA.
+6.2.2. Não havendo candidato aprovado à vaga de técnico-administrativo no processo seletivo, ela será preenchida por candidato aprovado para as vagas universais, seguindo a ordem de classificação dos candidatos.
+6.2.3. Os candidatos técnico-administrativos aprovados dentro do número de vagas oferecidas para ampla concorrência (universais) não serão computados para efeito do preenchimento das vagas reservadas.
+6.2.4. Em caso de desistência de candidato técnico-administrativo aprovado em vaga reservada, ela será preenchida pelo candidato técnico-administrativo posteriormente classificado.
+6.3. Para fazer jus às vagas reservadas a candidatos negros (pretos e pardos), indígenas e pessoas com deficiência, no momento da inscrição, o candidato deve indicar a qual reserva de vagas está concorrendo e obedecer aos critérios de
+inscrição, de aprovação e de classificação no processo seletivo, de acordo com as normas vigentes neste edital.
+6.3.1. Os candidatos negros (pretos e pardos), indígenas e pessoas com deficiência concorrerão concomitantemente às vagas reservadas e às vagas destinadas à ampla concorrência (universais), de acordo com a sua classificação na seleção, nos
+termos da Resolução nº 295/2020 do CONSUNI/UNIPAMPA.
+6.3.2. Não havendo candidato aprovado à vaga de negros (pretos e pardos), indígenas e pessoas com deficiência no processo seletivo, ela será preenchida por candidato aprovado para as vagas universais, seguindo a ordem de classificação dos
+candidatos.
+6.3.3. Os candidatos negros (pretos e pardos), indígenas e pessoas com deficiência aprovados dentro do número de vagas oferecidas para ampla concorrência (universais) não serão computados para efeito do preenchimento das vagas
+reservadas.
+6.3.4. Em caso de desistência de candidato negro (preto ou pardo), indígena ou com deficiência aprovado em vaga reservada, ela será preenchida pelo candidato negro (preto ou pardo), indígena ou com deficiência posteriormente classificado.
+Boletim de Serviço Eletrônico em 22/11/2023
 
 
 
-PROGRAD - Pró-Reitoria de Graduação 
-CLAA - Comitê Local de Acompanhamento e Avaliação 
-PET - PROGRAMA DE EDUCAÇÃO TUTORIAL
-3
-deverá solicitar pelo email difdo@prograd.ufu.br (DIFDO - Divisão de Formação Docente) o Termo de 
-Deferimento da AUTODECLARAÇÃO, informando o edital que irá participar e anexando ao email um 
-DOCUMENTO DE IDENTIFICAÇÃO COM FOTO, a AUTODECLARAÇÃO (conforme modelo anexo ao 
-edital) e uma FOTO INDIVIDUAL ATUAL (foto frontal; boa iluminação; fundo branco; roupas claras; sem 
-maquiagem; sem óculos; cabelos soltos; de preferência sem agasalho ou roupa de frio; sem filtros de 
-edição; boa resolução; arquivo com no máximo 6 MB). No caso de candidato indígena, deve-se 
-apresentar ainda o RANI (Registro Administrativo de Nascimento de Indígena). O candidato só poderá 
-se inscrever na seleção quando estiver de posse do Termo de Deferimento da AUTODECLARAÇÃO.
-Comentário 5: Estes textos acima (itens 1.5 e 1.5.1) não farão parte do edital, caso não haja vaga de cota PPI.
-1.6 Os candidatos das vagas destinadas a cotas do tipo PCD devem apresentar no ato da inscrição do 
-processo seletivo o ATESTADO DE INGRESSO COMO COTISTA, obtido quando do ingresso na UFU, 
-solicitado no Portal do Estudante da UFU.
-1.6.1 Os candidatos das vagas destinadas a cotas do tipo PCD que não possuem o ATESTADO DE 
-INGRESSO COMO COTISTA devem apresentar no ato da inscrição do processo seletivo a DECLARAÇÃO 
-DE ACOMPANHAMENTO DA DEPAE (Divisão de Ensino, Pesquisa, Extensão e Atendimento em 
-Educação Especial da UFU), que deve ser solicitada pelo candidato ao email depae@prograd.ufu.br
-Comentário 6: Estes textos acima (itens 1.6 e 1.6.1) não farão parte do edital, caso não haja vaga de cota PCD.
-Comentário geral: Caberá ao CLAA acompanhar o cumprimento da política de cotas no Programa PET 
-da UFU, tomando por base o PROGRAMA DE COTAS, utilizando-se para isto da análise e parecer dos 
-editais de seleção para ingresso de alunos nos Grupos e do acompanhamento/avaliação anual dos 
-Grupos PET da UFU.
+6.4. A autodeclaração de raça/etnia dos candidatos às vagas reservadas para negros (pretos e pardos) e indígenas, conforme Anexo 1, será aferida por comissão de heteroidentificação, a qual emitirá parecer.
+6.5. Para fins de validação da autodeclaração de raça/etnia de candidato autodeclarado negro (preto ou pardo), conforme Portaria Normativa nº 4, de 6 de abril de 2018, do Ministério do Planejamento, Desenvolvimento e Gestão (MPDG), serão
+considerados tão somente os aspectos fenotípicos do candidato, os quais serão validados obrigatoriamente com a presença do candidato na comissão de heteroidentificação.
+6.6. Para fins de validação da autodeclaração de raça/etnia de candidato autodeclarado indígena ou índio, considera-se o candidato que apresenta aspectos fenotípicos indígenas, que se representa enquanto tal, que é membro ou oriundo de
+comunidades indígenas e/ou que descende de povo indígena por relações de parentesco, aspectos que serão validados obrigatoriamente com a presença do candidato na comissão de heteroidentificação.
+6.7. O laudo médico e os exames complementares dos candidatos às vagas reservadas para pessoas com deficiência serão analisados por comissão de validação de condição de pessoa com deficiência designada para este fim.
+6.8. O candidato classificado às vagas destinadas às ações afirmativas que não conseguir comprovar sua condição na confirmação da matrícula perderá o direito à vaga, sem possibilidade de reclassificação.
+6.9. É responsabilidade exclusiva do candidato apresentar a documentação que comprove que está nas condições necessárias para concorrer/ingressar à vaga destinada para ação afirmativa.
+6.10. As comissões de validação utilizarão análise documental e entrevista para determinar se o candidato preenche os requisitos exigidos na Lei Federal nº 12.711, de 29 de agosto de 2012, alterada pela Lei Federal nº 13.409, de 28 de dezembro
+de 2016, Decreto Federal nº 7.824, de 11 de outubro de 2012, alterado pelo Decreto nº 9.034, de 2017, na Portaria Normativa MEC nº 18, de 11 de outubro de 2012, alterada pelas Portarias Normativas MEC nº 19, de 6 de novembro de 2014, e
+nº 9, de 5 de maio de 2017, e neste edital.
+6.11. As comissões de heteroidentificação realizarão registros fotográficos dos candidatos e gravação em áudio e vídeo das entrevistas. Os registros serão usados única e exclusivamente para comprovação das declarações apresentadas pelos
+candidatos selecionados para as vagas reservadas para ações afirmativas.
+Parágrafo único. O candidato que recusar a realização da filmagem do procedimento para fins de heteroidentificação, nos termos do caput, será eliminado do processo seletivo, dispensada a convocação suplementar de candidatos não
+habilitados.
+6.12. As Comissões de heteroidentificação, poderão utilizar quaisquer outras fontes de informação para comprovação das declarações apresentadas.
+6.13. Em caso de desistência de candidato aprovado em vaga universal, ela será preenchida pelo candidato posteriormente classificado.
+7. DA SELEÇÃO
+7.1. O processo seletivo será conduzido pela Comissão de Seleção do Programa de Pós-graduação em Engenharia de Software, designada pelo Conselho do Programa.
+7.1.1. Conforme item 10 deste edital, será divulgada a nominata dos membros que farão parte da Comissão de Seleção do Programa, e os candidatos podem se manifestar caso haja algum fator de impedimento de algum dos membros, desde
+que devidamente comprovado.
+7.1.2. É impedido de participar das bancas examinadoras, o docente que, em relação a qualquer um dos candidatos:
+a) for cônjuge, embora separado judicialmente, divorciado ou companheiro;
+b) tiver grau de parentesco ascendente ou descendente até terceiro grau;
+c) for sócio em atividade profissional;
+d) estiver litigando judicial ou administrativamente ou com respectivo cônjuge ou companheiro;
+e) tiver relação estreita de amizade ou inimizade notória ou com o respectivo cônjuge, companheiros, parentes e afins até terceiro grau.
+7.2. O candidato deverá cumprir todas as etapas do processo seletivo previstas neste Edital, conforme datas e horários divulgados no GURI.
+7.3. O candidato que não observar os locais e horários definidos para realização das etapas do processo seletivo estará automaticamente eliminado.
+7.4. A seleção dos candidatos ao Mestrado Profissional em Engenharia de Software considera as seguintes etapas e respectivas pontuações:
+7.4.1. Primeira etapa – eliminatória, o candidato deve alcançar, pelo menos, 25 (vinte) pontos dos 50 (cinquenta) pontos possíveis: memorial descritivo (a ser apresentado de forma remota síncrona). O link para acesso, a data e o horário das
+entrevistas serão enviados por e-mail para os candidatos e serão divulgados no GURI e no site do programa. Para todos os candidatos, avaliar-se-á:
+a) experiência prévia do candidato – 10 (dez) pontos;
+b) pró-atividade e habilidade de comunicação – 10 (dez) pontos;
+c) capacidade de reflexão do candidato sobre sua trajetória acadêmica, técnica ou tecnológica e, se vinculado com alguma empresa ou atividade de empreendedorismo, sobre seu envolvimento no desenvolvimento de produtos e serviços – 30
+(trinta) pontos.
+7.4.2. Segunda etapa – classificatória, até 50 (cinquenta) pontos:
+a) currículo Lattes considerando regulamento vigente para validação de produção científica e tecnológica como créditos de disciplina no PPGES (disponível em <https://cursos.unipampa.edu.br/cursos/ppges/files/2021/08/ppges-validacao-de￾producao-planilha.pdf> com equivalência de 1 (um) crédito = 5 (cinco) pontos;
+b) crédito em disciplinas: créditos já obtidos em programas de pós-graduação stricto sensu recomendados pela CAPES que poderão ser posteriormente convalidados (a critério do colegiado, de acordo com as normas vigentes), com equivalência
+de 1 (um) crédito = 5 (cinco) pontos;
+c) monitoria em curso de graduação – 5 pontos por semestre letivo;
+d) iniciação científica e tecnológica concluída (demonstrada através de certificado ou declaração do orientador), exceto iniciação realizada durante a participação no PET – 5 pontos por semestre por iniciação;
+e) participação no PET (Programa de Educação Tutorial) – 5 pontos por semestre letivo;
+f) curso lato sensu concluído em Computação ou em áreas afins – 25 pontos.
+7.5. Serão utilizados como critério de desempate:
+a) maior pontuação na entrevista;
+b) maior pontuação na análise do currículo Lattes;
+c) idade, dando-se preferência ao de idade mais elevada. De acordo com o art. 27 da Lei Federal nº 10.741, de 1o de outubro de 2003 (Estatuto do Idoso), tem preferência o candidato com idade igual ou superior a 60 (sessenta) anos.
+7.6. O candidato classificado para aluno regular, e não selecionado por causa do número de vagas, pode ser selecionado como aluno especial, conforme o número de vagas oferecidas.
+8. DOS RESULTADOS
+8.1. Resultados preliminares e finais do processo seletivo serão divulgados nas datas indicadas no item 10 deste edital, no GURI, disponível no endereço eletrônico <https://guri.unipampa.edu.br/psa/processos/>.
+9. DA MATRÍCULA
+9.1. Terão direito à matrícula os candidatos classificados até o limite máximo de vagas estipulado por curso de pós-graduação, no item 6.
+9.2. A matrícula apresenta as seguintes etapas:
+I. solicitação de matrícula;
+II. confirmação de matrícula.
+9.3. Para garantir a vaga no curso, o candidato classificado no processo seletivo deverá ser deferido na etapa de matrícula.
+9.3.1. O não cumprimento do procedimento descrito neste edital para a matrícula ou a não observação dos prazos estipulados acarretará a exclusão do candidato do processo seletivo, sem possibilidade de reclassificação.
+9.4. O candidato que não se matricular dentro do prazo estabelecido perderá o direito à vaga.
+9.5. Em caso de não observação do prazo para matrícula, a vaga será disponibilizada a outro candidato por ordem de suplência.
+9.6. A UNIPAMPA se reserva o direito de verificar declarações, autodeclarações e laudos médicos apresentados pelos candidatos, e, sendo verificada irregularidade, o candidato perderá a vaga, sem possibilidade de qualquer remanejamento.
+9.7. Da solicitação da matrícula
+9.7.1. O candidato deverá solicitar matrícula via internet.
+9.7.2. A solicitação de matrícula via internet consiste no envio da documentação, obrigatoriamente no formato digital PDF, pelo GURI, acessando o endereço: <https://guri.unipampa.edu.br/pss/publico/listarEdicoesMatCondicional/>.
+9.7.3. O candidato deverá fazer o upload (em português “envio”) da seguinte documentação, completa, acessível e correta:
+a) cópia digitalizada (frente e verso) de título eleitoral;
+b) cópia digitalizada do comprovante de votação na última eleição (dois turnos, se aplicável) ou comprovante de quitação eleitoral expedida pelo Tribunal Regional Eleitoral;
+c) cópia digitalizada (frente e verso) do certificado de quitação com o serviço militar obrigatório, para pessoas do sexo masculino até 45 (quarenta e cinco) anos;
+d) cópia digitalizada (frente e verso) do diploma de graduação ou atestado de conclusão de curso (ou documento equivalente) emitido por IES credenciada pelo MEC para candidatos graduandos que se inscreveram com o atestado de provável
+formando;
+e) cópia digitalizada do histórico escolar da graduação para candidatos graduandos que se inscreveram com o atestado de provável formando;
+f) cópia digitalizada da declaração da chefia imediata que comprove o vínculo do candidato com a UNIPAMPA, para os ingressantes por meio da reserva de vagas para técnico-administrativo;
+g) cópia digitalizada do comprovante de inscrição no Cadastro de Pessoa Física (CPF) para candidato estrangeiro que não o possuía no ato da inscrição.
+9.7.4. Candidatos estrangeiros classificados estão desobrigados de apresentar os documentos listados nas letras “a”, “b” e “c” (título eleitoral, comprovante de quitação eleitoral e comprovante de quitação com o serviço militar obrigatório).
+9.7.4.1. A matrícula dos candidatos estrangeiros classificados ocorrerá por e-mail, sendo responsabilidade do candidato encaminhar um e-mail confirmando a sua matrícula e encaminhando a documentação em anexo para o contato
+selecao.ppges@unipampa.edu.br no prazo estipulado no item 10 deste edital, sob pena de perder a vaga se não o fizer.
+9.7.4.2. O tratamento da documentação apresentada na fase de solicitação de matrícula seguirá o que regra a Portaria REITORIA/UNIPAMPA no 353, de 22 de fevereiro de 2023.
+9.7.5. A matrícula deverá ser solicitada conforme item 10 deste edital.
+9.7.6. A solicitação de matrícula não garante a vaga ao candidato, que somente terá direito a vaga após deferimento da matrícula.
+9.7.7. Ao finalizar a solicitação de matrícula, o GURI gerará um comprovante com os dados do candidato e a listagem dos arquivos anexados.
+9.7.7.1. É de responsabilidade do candidato guardar esse comprovante, para eventuais verificações nos procedimentos de matrícula.
+9.7.8. Após solicitar matrícula, o candidato deverá acompanhar eventuais pedidos de complementação da documentação. Para consultar os documentos solicitados e complementá-los, o candidato deverá acessar o GURI no endereço:
+<https://guri.unipampa.edu.br/pss/publico/listarEdicoesMatCondicional/>.
+9.7.9. Caso necessário, a Secretaria de Pós-graduação poderá solicitar complementação de documentos a fim de garantir a veracidade das informações.
+9.7.10. O candidato cuja solicitação de matrícula for indeferida terá prazo para fazer a complementação da documentação, também via GURI, conforme cronograma deste edital.
+9.7.11. Após o período para complementação da documentação, será publicado o resultado provisório das solicitações de matrícula no GURI.
+9.7.12. O candidato que solicitar matrícula e enviar toda documentação completa e correta terá solicitação de matrícula deferida sujeita à apresentação da documentação original caso seja necessário, para fins de verificação e autenticação
+institucional, no Campus Alegrete da UNIPAMPA, endereço a seguir:
+
+
+
+Secretaria de Pós-graduação do Campus Alegrete
+Universidade Federal do Pampa (UNIPAMPA)
+Av. Tiaraju, no 810, Bairro Ibirapuitã, Alegrete/RS, CEP 97546-550
+Horário: Terças das 14h30min às 19h30min; Segunda, quarta, quinta e sexta-feira das 8h30min às 13h30min Telefone: (55) 3421 8402
+secretaria.ppges@unipampa.edu.br
+9.7.13. Caso solicitado a apresentar a documentação original (ou cópia autenticada) e não apresente no período solicitado, o candidato terá a solicitação de matrícula indeferida e perderá o direito à vaga, independentemente de ter cursado
+disciplinas do curso do programa de pós-graduação.
+9.7.14. O candidato cuja solicitação de matrícula for deferida receberá a confirmação de matrícula pela Secretaria de Pós-graduação, através da matrícula nos componentes curriculares ofertados no primeiro semestre do Mestrado em
+Engenharia de Software ou nos componentes solicitados.
+9.7.15. O candidato cuja confirmação de matrícula for indeferida terá direito a recurso conforme prazo previsto no item 10 deste edital.
+9.8. Da confirmação de matrícula
+9.8.1. A confirmação de matrícula consiste na verificação da documentação apresentada durante a etapa de solicitação de matrícula pela Secretaria de Pós-graduação conforme definido no item 9 deste edital.
+9.8.2. A confirmação de matrícula do candidato somente será deferida se for apresentada toda a documentação, acessível, correta, completa e legível, e com parecer favorável da Secretaria de Pós-graduação.
+9.8.3. Caso necessário, a Secretaria de Pós-graduação poderá solicitar complementação de documentos a fim de garantir a veracidade das informações.
+9.8.4. O candidato que desejar interpor recurso deverá fazê-lo por correspondência eletrônica enviada ao endereço <selecao.ppges@unipampa.edu.br>, explicitando os motivos para recurso e argumentação.
+9.8.5. O candidato que interpuser recurso receberá uma mensagem de confirmação do recebimento do recurso.
+9.8.6. O Programa de Pós-graduação em Engenharia de Software não se responsabiliza por problemas no envio do recurso.
+10. CRONOGRAMA
+10.1. As fases do processo seletivo, com as respectivas datas, são as que seguem:
+a) Período de Inscrições: de 10/12/2023 até 14/01/2024;
+b) Divulgação das Inscrições Homologadas: até 15/01/2024;
+c) Período para Recursos de homologação das inscrições: até 16/01/2024;
+d) Homologação Final das Inscrições e divulgação dos nomes da Comissão de Seleção: até 17/01/2023;
+e) Prazo para arguição de impedimento de membro da Comissão de Seleção: até 18/01/2024;
+f) Prazo para resposta aos pedidos de arguição de impedimento de membro da Comissão de Seleção: até 19/01/2024;
+g) Período da Seleção: de 22/01/2024 até 02/02/2024;
+h) Divulgação do resultado Preliminar do Processo Seletivo: até 03/02/2024;
+i) Notificação da Comissão de Seleção sobre possíveis aprovados(as) para reserva de vagas à Comissão de heteroidentificação: até 05/02/2024;
+j) Período para Recursos ao Resultado do Processo Seletivo: até 06/02/2024;
+k) Divulgação de Resultado Final do Processo Seletivo: até 07/02/2024;
+l) Período de Matrícula: 08/02/2024 a 16/02/2024;
+m) Período para complementação de documentação da Matrícula: 17/02/2024 a 19/02/2024;
+n) Divulgação dos resultados preliminares da Matrícula: 20/02/2024;
+o) Período para recurso da Matrícula: 21/02/2024 e 22/02/2024;
+p) Divulgação do resultado final da Matrícula: 23/02/2024;
+q) Período para chamada de suplentes: 26/02/2024 a 01/04/2024;
+r) período de matrícula em disciplinas (secretaria de pós-graduação): 1ª (primeira) semana do 1º (primeiro) semestre 2024.
+11. DISPOSIÇÕES FINAIS
+11.1. O presente edital poderá ser cancelado ou alterado, em parte ou no todo, a qualquer tempo, desde que por motivos supervenientes, legais ou relevantes assim o determinem, sem que isso venha a gerar direitos ou obrigações em relação
+aos interessados.
+11.2. Para o cumprimento dos horários previstos neste edital, considera-se o horário de Brasília/DF.
+11.3. A arguição de impedimento ou suspeição de algum dos membros da Comissão de Seleção deste edital deve ter como base as situações previstas no item 7.1.2 deste edital, com as devidas justificativas, e ser encaminhada por e-mail a
+<selecao.ppges@unipampa.edu.br>, até a data prevista no cronograma deste edital.
+11.3.1. O pedido será analisado pelo Conselho do Campus Alegrete, sede do Programa de Pós-graduação em Engenharia de Software, que, em caso de parecer favorável ao impedimento, procederá a substituição do membro da Comissão de
+Seleção.
+11.3.2. O candidato será informado da decisão no prazo previsto no item 10 deste edital.
+11.4. Os candidatos inscritos neste processo seletivo automaticamente autorizam o uso e tratamento de seus dados pessoais para finalidade específica do concurso, matrícula e dados acadêmicos, em conformidade com a Lei Federal no 13.709,
+de 14 de agosto de 2018 - Lei Geral de Proteção de Dados Pessoais (LGPD).
+11.5. O ingresso de recursos relativos às etapas de homologação de candidatos e de resultados parciais e finais deve ser realizados perante a Comissão de Seleção do edital, até as datas previstas no item 10 deste edital, exclusivamente por meio
+de correspondência eletrônica encaminhada para o endereço eletrônico: <selecao.ppges@unipampa.edu.br>.
+11.6. Na hipótese de haver vagas não preenchidas ou desistências após o período de matrículas ou o início do semestre letivo, os candidatos serão chamados, no máximo, até 2 (duas) semanas após o início das aulas/semestre letivo, de acordo
+com a lista de suplentes divulgada com o resultado final, obedecendo aos mesmos critérios de classificação dos candidatos aprovados.
+11.7. Demais informações podem ser obtidas com a Secretaria de Pós-graduação da UNIPAMPA do Campus Alegrete, através do endereço eletrônico que consta no item 9 deste edital.
+11.8. O programa não garante o recebimento de bolsa de estudos aos candidatos selecionados.
+11.9. Os casos omissos ou excepcionais vinculados a este edital no que se referem a formato, aplicação e forma de avaliação das provas e demais etapas do processo seletivo serão resolvidos pela Comissão de Seleção do Programa de Pós￾graduação em Engenharia de Software.
+11.9.1 Os demais casos serão resolvidos pelo Conselho do Programa de Pós-graduação em Engenharia de Software da UNIPAMPA ou, quando necessário, nas demais instâncias recursais.
+11.10. Ao inscrever-se neste processo seletivo, o candidato reconhece e aceita as normas estabelecidas neste edital, as normas vigentes que regulam os cursos de pós-graduação stricto sensu da UNIPAMPA e a regulamentação específica do
+programa de pós-graduação para o qual está se inscrevendo.
+Bagé, 22 de novembro de 2023.
+Roberlaine Ribeiro Jorge
+Reitor
+ANEXO I
+AUTODECLARAÇÃO DE RAÇA/ETNIA
+Eu, ________________________________________________________________, inscrito no Processo Seletivo para ingresso de Discentes no Programa de Pós-graduação em _________________________, para o curso de ____________, Edital
+no ____________, portador do documento de identificação no ____________ e Cadastro de Pessoa Física (CPF) no ____________, DECLARO, para fins de participação no acima referido processo seletivo de pós-graduação da UNIPAMPA, que:
+1) em conformidade com a classificação do Instituto Brasileiro de Geografia e Estatística (IBGE), sou:
+( ) NEGRO/PRETO ( ) NEGRO/PARDO ( ) INDÍGENA
+2) reconheço meu pertencimento étnico-racial pelos motivos expostos a seguir:
+_________________________________________________________________________________________________________________________________________________________________________________________________________
+3) estou ciente de que o candidato que comprovadamente e a qualquer tempo apresentar documentos falsos, fornecer informações inverídicas, utilizar quaisquer meios ilícitos ou descumprir as normas do Edital do Processo Seletivo de Pós￾graduação, será desclassificado do processo seletivo, sem prejuízo das sanções penais eventualmente cabíveis. Compete à Comissão de Heteroidentificação o procedimento de aferição da autodeclaração de raça/etnia, assegurando ao candidato
+o contraditório e a ampla defesa.
+4) responsabilizo-me pela veracidade das informações prestadas/documentos apresentados neste processo seletivo. Estou ciente de que, se for detectada a falsidade desta declaração de raça/etnia, estarei sujeito a penalidades legais.
+__________________, _____ de _______________ de 2023.
+________________________________________
+Assinatura do candidato
+ANEXO II
+LAUDO MÉDICO PARA INGRESSO NOS CURSOS DE PÓS-GRADUAÇÃO
+
+
+
+Atesto, para os devidos fins, que ________________________________________ apresenta deficiência(s) ou condição(ões):
+Física Mental Visual Auditiva
+Orientações:
+Anexar ao laudo médico os exames complementares emitidos nos últimos doze meses, que comprovem a patologia apresentada (audiometria, acuidade visual, radiologia, entre outros). NÃO serão aceitos laudos incompletos ou ilegíveis.
+CID-10: _____________________________________________________________
+Deficiência e/ou condição: ______________________________________________
+Descrição das dificuldades decorrentes da deficiência ou condição apresentada que podem ser percebidas e influenciar o processo ensino-aprendizagem e o ambiente educacional:
+_________________________________________________________
+Para candidatos com DEFICIÊNCIA AUDITIVA, preencher os quadros a seguir:
+Ouvido Direito Ouvido Esquerdo
+Frequência (Hz) Marque um “X” Frequência (Hz) Marque um “X”
+Sem alteração Sem alteração
+0 - 250 0 - 250
+251 - 500 251 - 500
+501 - 1000 501 - 1000
+1001- 2000 1001- 2000
+2001- 3000 2001- 3000
+3001 - 4000 3001 - 4000
+Para candidatos com DEFICIÊNCIA VISUAL, preencher os quadros a seguir:
+Olho Direito Olho Esquerdo
+Designação Marque um “X” Designação Marque um “X”
+Sem alteração Sem alteração
+20/800 20/800
+20/600 20/600
+20/400 20/400
+20/200 20/200
+20/100 20/100
+20/80 20/80
+20/60 20/60
+20/50 20/50
+Declaro estar ciente de que é crime, previsto no Código Penal, “dar o médico, no exercício da sua profissão, atestado falso” (art. 302) e “fazer uso de qualquer dos papéis falsificados ou alterados, a que se referem os arts. 297 a 302” (art. 304).
+___________________, _____ de _________________ de 2023.
+Nome do médico: CRM:
+Especialidade: Estado:
+Carimbo e assinatura:
+* Rubricar todas as páginas
+Obs.: Art. 299 do Código Penal: omitir, em documento público ou particular, declaração que dele devia constar, ou nele inserir ou fazer inserir declaração falsa ou diversa da que devia ser escrita, com o fim de prejudicar direito, criar obrigação ou
+alterar a verdade sobre fato juridicamente relevante: Pena - reclusão, de um a cinco anos, e multa, se o documento é público, e reclusão de um a três anos, e multa, se o documento é particular.
+Assinado eletronicamente por ROBERLAINE RIBEIRO JORGE, Reitor, em 22/11/2023, às 13:41, conforme horário oficial de Brasília, de acordo com as normativas legais aplicáveis.
+A autenticidade deste documento pode ser conferida no site https://sei.unipampa.edu.br/sei/controlador_externo.php?acao=documento_conferir&id_orgao_acesso_externo=0, informando o código verificador 1306920 e o código CRC BF66238F.
+Referência: Processo nº 23100.023543/2023-77 SEI nº 1306920
+
+
+
+Validação de Produção Científica e Tecnológica como Crédito de disciplina 
+Planilha de Créditos
+CRÉDITOS (escala de pontuação)
+TIPO CATEGORIA 0,1 0,25 0,5 1 2 3 4 6 8 12
+Documentação 
+Comprobatória Mínima Necessária
+Produção Científica (Pesquisa)
+Artigo completo (4 ou mais 
+páginas) publicado em 
+periódico científico.
+Qualis B5, B4 
+ou B3 ou 
+equivalente.
+Qualis B2 ou B1 ou 
+equivalente.
+Qualis A4 ou 
+equivalente.
+Qualis A3 ou 
+equivalente.
+Qualis A2 ou 
+equivalente.
+Qualis A1 ou 
+equivalente.
+Cópia do artigo e do 
+comprovante de aceite ou 
+publicação.
+Trabalho completo (4 ou 
+mais páginas) publicado 
+em anais de evento 
+científico.
+Qualis B5, B4 
+ou B3 ou 
+equivalente.
+Qualis B2 ou B1 ou 
+equivalente.
+Qualis A4 ou 
+equivalente.
+Qualis A3 ou 
+equivalente.
+Qualis A2 ou 
+equivalente.
+Qualis A1 ou 
+equivalente.
+Cópia do trabalho e do 
+comprovante de aceite ou 
+publicação.
+Trabalho completo (5 ou 
+mais páginas) em Escolas 
+Regionais
+Sem Qualis
+Cópia do trabalho e do 
+comprovante de aceite ou 
+publicação.
+Trabalho curto ou resumo 
+expandido publicado em 
+anais de evento científico.
+Qualis B5, B4 
+ou B3 ou 
+equivalente.
+Qualis B2 ou B1 ou 
+equivalente.
+Qualis A4 ou 
+equivalente.
+Qualis A3 ou 
+equivalente.
+Qualis A2 ou 
+equivalente.
+Qualis A1 ou 
+equivalente.
+Cópia do trabalho ou 
+resumo e do comprovante 
+de aceite ou publicação.
+Resumo ou pôster 
+publicado em anais de 
+evento científico.
+Qualis B5, B4 
+ou B3 ou 
+equivalente.
+Qualis B2 ou B1 ou 
+equivalente.
+Qualis A4 ou 
+equivalente.
+Qualis A3 ou 
+equivalente.
+Qualis A2 ou 
+equivalente.
+Qualis A1 ou 
+equivalente.
+Cópia do resumo ou pôster 
+e do comprovante de aceite 
+ou publicação.
+Livro publicado na área da 
+Computação.
+Editora com 
+distribuição 
+regional.
+Editora com 
+distribuição 
+nacional.
+Editora com 
+distribuição 
+internacional.
+Ficha catalográfica e do 
+comprovante de aceite ou 
+publicação.
+Capítulo de livro na área 
+da Computação.
+Editora com 
+distribuição 
+regional.
+Editora com 
+distribuição 
+nacional.
+Editora com 
+distribuição 
+internacional.
+Ficha catalográfica e do 
+comprovante de aceite ou 
+publicação.
+Melhores trabalhos (ou 
+trabalhos destaque) de 
+eventos científicos da Computação.
+Evento Regional, Nacional ou 
+Internacional 
+sem Qualis ou 
+com Qualis 
+irrestrito.
+Evento Nacional com 
+qualis restrito.
+Evento 
+Internacional 
+com qualis 
+restrito.
+Certificado ou 
+documentação equivalente 
+que comprove a premiação 
+de destaque do evento.
+TIPO CATEGORIA 0,1 0,25 0,5 1 2 3 4 6 8 12
+Documentação 
+Comprobatória Mínima Necessária
+Produção Técnológica (Inovação / Extensão)
+Patente relacionada à Computação.
+Com depósito 
+formalizado.
+Com carta￾patente 
+expedida.
+Comprovante de depósito 
+ou carta-patente.
+Registro de software 
+relacionado à Computação.
+Com cerificado 
+de registro 
+expedido.
+Certificado de registro 
+expedido por órgão 
+competente, como o INPI.
+Incubação de uma 
+empresa relacionada à 
+Computação
+Contrato de 
+incubação.
+Cópia do contrato de 
+incubação no 
+PampaTec/Unipampa.
+Desenvolvimento de 
+produto em sigilo 
+relacionado à Computação
+Com 
+documentação 
+e declaração 
+de sigilo.
+Documentação do produto 
+e declaração de sigilo.
+Transferência de 
+tecnologia com Empresa 
+Privada ou outro tipo de 
+organização
+Transferência 
+de 
+conhecimento.
+Transferência 
+de software ou 
+outro produto. 
+Cópia de contrato, software 
+(quando aplicável) e 
+relatório ou documento 
+comprobatório de 
+transferência.
+Base de dados utilizada 
+em trabalhos de mineração, 
+recomendação, 
+estatísticas e extração de 
+conhecimento
+Base de dados 
+de domínio 
+público de no mínimo 100 
+assets.
+Cópia da base de dados 
+criada e trabalho publicado 
+ou relatório técnico.
+Melhores trabalhos (ou 
+trabalhos destaque) de 
+eventos de inovação 
+tecnológica
+Menção 
+honrosa 2º ou 3º lugar 1º lugar
+Certificado ou 
+documentação equivalente 
+que comprove a premiação 
+de destaque do evento.
+TIPO CATEGORIA 0,1 0,25 0,5 1 2 3 4 6 8 12
+Documentação 
+Comprobatória Mínima Necessária
+Produção Técnológica (Ensino)
+Curso de formação 
+profissional relacionado à 
+Computação
+Com material e 
+estatísticas do 
+curso.
+Cópia do material (texto, 
+slides), lista de 
+participantes, feedback dos 
+participantes.
+Tutorial na tecnologia 
+desenvolvida
+Tutorial 
+técnico com o mínimo de 
+uma hora de 
+duração.
+Cópia do material (texto, 
+slides), lista de 
+participantes, feedback dos 
+participantes.
+Estágio de Docência
+Estágio de Docência em 
+curso de 
+graduação (15 
+horas da carga 
+horária 
+curricular).
+Comprovante emitido pelo 
+professor da disciplina de 
+graduação.
+Mentoring em 
+transferência de tecnologia
+Atividade de mentoring 
+para suavizar 
+a curva de 
+aprendizado 
+na 
+transferência 
+de uma 
+tecnologia (15 
+horas).
+Relatório técnico ou outros 
+documentos (exemplo: 
+atestado da empresa) que 
+comprove o trabalho.
+Versões
+22/11/2023 Reunião ordinária 2023/11 Incluída a linha "Melhores trabalhos (ou trabalhos destaque) de eventos de inovação tecnológica".
+
+
+
+MINISTÉRIO DA EDUCAÇÃO
+UNIVERSIDADE FEDERAL DO PAMPA
+PROGRAMA DE PÓS-GRADUAÇÃO EM ENGENHARIA DE SOFTWARE - PPGES
+REGULAMENTO INTERNO PPGES 02/2019
+VALIDAÇÃO DE PRODUÇÃO CIENTÍFICA E TECNOLÓGICA COMO
+CRÉDITO DE DISCIPLINA NO PPGES
+Art. 1º – São consideradas Produção Científica publicações de artigos
+científicos em conjunto com o orientador, durante o período regular de
+Curso.
+Art. 2º – A consideração dos créditos, de acordo com o Art. 48, da Resolução nº
+115, de 22 de outubro de 2015, levará em conta a classificação da
+publicação, avaliada pelo Qualis da área da Ciência da Computação. Para
+a pontuação das publicações, deve ser adotado o Qualis ou equivalente
+previsto no documento de área vigente à época da solicitação dos
+candidatos, conforme planilha de pontuação de validação de produção do
+Anexo I.
+Parágrafo 1º: A data de aceite dos artigos científicos deverá ser posterior a
+data de ingresso do discente no programa.
+Parágrafo 2º: O aproveitamento de produções com Qualis Irrestrito (B1 a B5 ou
+sem Qualis) é limitado a uma pontuação acumulada de no máximo 4
+créditos.
+Parágrafo 3º: Para trabalhos completos, aceitos e publicados em anais de
+eventos científicos, e premiados como melhores trabalhos (ou trabalhos
+destaque) do evento, pode ser solicitado o aproveitamento adicional (por
+mérito de qualidade) de créditos (conforme detalhado no Anexo I) para o
+primeiro e principal autor do trabalho.
+Parágrafo 4º: O orientador deverá aprovar e justificar o aproveitamento de
+créditos de cada trabalho, incluindo o percentual de distribuição dos
+créditos entre os autores discentes do programa.
+Art. 3º – A consideração dos créditos de artigos somente com o aceite do
+periódico ou da conferência, ainda não publicados, dependerá de parecer
+
+
+
+favorável do Conselho do PPGES.
+Art. 4º – São consideradas Produção Tecnológica de Ensino, Pesquisa,
+Extensão e Inovação trabalhos realizados em conjunto com o orientador,
+durante o período regular de Curso. A discretização da Produção
+Tecnológica é apresentada no Anexo I.
+Parágrafo Único: Todas as Produções Tecnológicas devem ser
+obrigatoriamente relacionadas à Computação.
+Art. 5º – Os créditos em Produção Científica ou Tecnológica serão efetivados
+por meio da solicitação ao colegiado pelo discente do curso, com
+anuência e parecer do orientador, que tenha sido desenvolvida durante o
+período regular de Curso.
+Parágrafo 1º: A partir da pontuação mínima, estabelecida no Anexo I da norma,
+em casos excepcionais, como um único autor discente, o orientador
+poderá também justificar qualitativamente o mérito do autor para eventual
+pontuação complementar pelo trabalho desenvolvido.
+Parágrafo 2º: O aproveitamento de Produção Tecnológica é limitado a um único
+aproveitamento por categoria (conforme categorias do Anexo I) e a uma
+pontuação acumulada de no máximo 4 créditos.
+Art. 6º – A atribuição de créditos é determinada pelo Conselho do Programa.
+Após a aprovação pelo Conselho do Programa, os créditos obtidos em
+Produção Científica e Produção Tecnológica de Ensino, Pesquisa,
+Extensão e Inovação são registrados no Histórico Escolar e são
+computados nos créditos mínimos para a integralização do curso.
+Art. 7º – Os casos omissos e eventuais questões de interpretação na presente
+resolução serão resolvidos pelo Conselho do PPGES.
+Art. 8º – O limite máximo de aproveitamento de Produção Científica ou
+Tecnológica é de 12 créditos, pois as disciplinas obrigatórias do programa
+não podem ser aproveitadas.
+Art. 9º – Este regulamento entrará em vigor a partir da data de sua aprovação
+pelo Conselho do PPGES.
